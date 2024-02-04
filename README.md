@@ -40,7 +40,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - TAY JARETH https://github.com/DaCrazyLime/perse24
 - YE XINCHENG
 - BU PING JIN
-- CHUA NIAN HENG JOHNATHAN
+- CHUA NIAN HENG JOHNATHAN https://github.com/jNathan00/persecoding
 - CHUA WEI JIE THURSTON
 - GOY SZE LENG ELIZA
 - JAMES NATHAN NORA
